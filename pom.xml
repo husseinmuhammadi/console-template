@@ -21,7 +21,7 @@
     </properties>
 
     <build>
-        <finalName>maven-profile-demo</finalName>
+        <finalName>demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
