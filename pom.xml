@@ -11,8 +11,6 @@
 
     <modules>
         <module>logback</module>
-        <module>properties</module>
-        <module>internationalization</module>
     </modules>
 
     <properties>
