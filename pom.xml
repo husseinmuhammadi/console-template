@@ -10,9 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>logback</module>
-        <module>properties</module>
-        <module>internationalization</module>
+        <module>console-application</module>
     </modules>
 
     <properties>

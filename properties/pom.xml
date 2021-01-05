@@ -9,7 +9,3 @@
         <artifactId>console-template-parent</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
-
-    <artifactId>console-application-properties</artifactId>
-
-</project>
