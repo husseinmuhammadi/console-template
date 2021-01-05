@@ -3,7 +3,7 @@ This project is a multi-module java console application with an executable jar w
 - logging with logback
 - maven profile for development, stage and production support
 - unit testing with junit 
-- mokito for mock tesing 
-- health check (liveliness and readyness)
+- mockito for mock testing 
+- health check (liveliness and readiness)
 - metrics
 - docker image and docker-compose
